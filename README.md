@@ -1,4 +1,5 @@
 ## Hi there 👋
+![anonynousHogwild](https://github.com/user-attachments/assets/983817af-ddfb-4622-a74e-448581836cdb)
 
 <!--
 **AnonymousHogwild/AnonymousHogwild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
